@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JoshuaGilmon
+- 👀 I’m interested in Software Engeneering and Back and Front end Development.
+- 🌱 I’m currently learning Android App Development and UNIX Scripts.
+- 📫 How to reach me by email JoshuaGilmon@gmail.com
